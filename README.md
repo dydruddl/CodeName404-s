@@ -1,21 +1,21 @@
 # CodeName404
 
-# 0. 쓰담쓰담(sseudam): SpringBoot와 Gradle을 사용한 반려동물 상담 프로젝트
-'쓰담'은 반려동물 상담을 받을 수 있는 페이지 입니다.<br>
-관리자/일반회원/상담사로 구분되어 있습니다.
+# 0. 코드네임404(CodeName404): Spring과 Maven을 사용한 개발자 커뮤니티 프로젝트
+'코드네임404'는 개발자 커뮤니티를 위한 페이지 입니다.<br>
+관리자/일반회원 으로 구분되어 있습니다.
 <br><br>
 
 # 1. 사용한 기술/툴
-1. JAVA11<br>
-2. Spring Boot MVC<br>
-3. Gradle<br>
+1. Java8<br>
+2. Spring MVC<br>
+3. MAVEN<br>
 4. AJAX<br>
-5. MyBatis<br>
+5. MyBatis3<br>
 6. jQuery
 <br><br>
 
 # 2. DB
-![db](https://github.com/KayoonLee/sseudam/assets/121711903/6b285197-e4fd-449d-ab8b-2f831870d87f)
+![CodeName404_DB](https://github.com/wlsdntls/CodeName404/assets/121711903/a596cd82-a548-42ee-9de9-1cbbc9e3d8c5)
 <br><br>
 
 # 3. 구현기능
@@ -29,7 +29,8 @@
 <br><br>
 
 # 4. AWS 배포
-http://3.35.16.133/index.jsp
+http://13.124.169.213/
+http://13.124.169.213/main.do
 <br><br>
 
 # 5. 구동 화면<br><br>
