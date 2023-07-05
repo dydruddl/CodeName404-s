@@ -15,6 +15,7 @@
 
 # 2. DB
 ![CodeName404_DB](https://github.com/wlsdntls/CodeName404/assets/121711903/a596cd82-a548-42ee-9de9-1cbbc9e3d8c5)
+모든 게시판 테이블에 FK 제약조건 이름을 만들어서 on delete cascade를 붙인 제약조건을 설정하였기 때문에 신고당한 회원을 관리자가 삭제할 경우, 식별관계로 DB를 설계하였기 때문에 해당회원에 대한 게시글과 댓글들이 모두 삭제됩니다.
 <br><br>
 
 # 3. 구현기능
@@ -22,14 +23,13 @@
 2. 비밀번호 분실시 -> 이메일로 새로운 비밀번호 발급받기
 3. 회원정보 수정/탈퇴/비밀번호 변경
 4. 자유게시판/스터디게시판/QnA게시판
-5. 
-6. 
-7. 관리자/회원수 통계/회원관리 -> AJAX를 사용한 회원정보 상세 출력
+   -> 글작성/글수정/글삭제/댓글채택 가능
+   -> 세션체크를 통해 로그인한 회원만 이용가능
+5. 관리자: 신고당한 회원관리/공지사항 글작성 권한/신고글목록/신고사유를 볼 수 있음/회원강퇴
 <br><br>
 
 # 4. AWS 배포
 http://13.124.169.213/
-http://13.124.169.213/main.do
 <br><br>
 
 # 5. 구동 화면<br><br>
@@ -59,5 +59,10 @@ http://13.124.169.213/main.do
 # 5-4. 관리자-회원관리/회원상세정보<br><br>
 ![회원관리테이블](https://github.com/wlsdntls/CodeName404/assets/121711903/344e362e-0622-4dd4-b8c0-8d67fa7ec980)
 ![회원상세정보](https://github.com/wlsdntls/CodeName404/assets/121711903/f28c058c-937c-4bee-90b3-fdd678426919)
-
 <br><br>
+
+# 5-4. 관리자-신고글게시판/신고사유게시판/신고사유상세페이지/신고창<br><br>
+![신고글게시판](https://github.com/wlsdntls/CodeName404/assets/121711903/896bc5cc-6b0d-4105-92ce-a55ac3665342)
+![신고사유게시판](https://github.com/wlsdntls/CodeName404/assets/121711903/edc36d14-9793-4004-aa83-1e661922b7ba)
+![신고사유상세페이지](https://github.com/wlsdntls/CodeName404/assets/121711903/72e4295a-0bd6-4e11-a12c-f40b0b69c5d1)
+![신고창](https://github.com/wlsdntls/CodeName404/assets/121711903/7e29e855-d012-403c-af41-269449b01f3e)
