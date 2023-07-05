@@ -66,5 +66,5 @@ http://13.124.169.213/
 # 5-4. 관리자-신고글게시판/신고사유게시판/신고사유상세페이지/신고창<br><br>
 ![신고글게시판](https://github.com/wlsdntls/CodeName404/assets/121711903/896bc5cc-6b0d-4105-92ce-a55ac3665342)
 ![신고사유게시판](https://github.com/wlsdntls/CodeName404/assets/121711903/edc36d14-9793-4004-aa83-1e661922b7ba)
-![신고사유상세페이지](https://github.com/wlsdntls/CodeName404/assets/121711903/72e4295a-0bd6-4e11-a12c-f40b0b69c5d1)
+![신고사유상세페이지](https://github.com/wlsdntls/CodeName404/assets/121711903/1334d392-4339-4fa1-9508-c9e4a80352ee)
 ![신고창](https://github.com/wlsdntls/CodeName404/assets/121711903/7e29e855-d012-403c-af41-269449b01f3e)
