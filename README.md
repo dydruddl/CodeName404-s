@@ -25,7 +25,9 @@
 4. 자유게시판/스터디게시판/QnA게시판
    -> 글작성/글수정/글삭제/댓글채택 가능
    -> 세션체크를 통해 로그인한 회원만 이용가능
-5. 관리자: 신고당한 회원관리/공지사항 글작성 권한/신고글목록/신고사유를 볼 수 있음/회원강퇴
+5. 관리자:
+   -> 공지사항 글작성 권한/회원강퇴
+   -> 신고당한 회원관리/신고글목록/신고사유를 볼 수 있음/
 <br><br>
 
 # 4. AWS 배포
@@ -39,7 +41,7 @@ http://13.124.169.213/
 <br><br>
 
 # 5-2. 회원가입/로그인/로그인 화면창 구분<br><br>
-![로그인구분창](https://github.com/wlsdntls/CodeName404/assets/121711903/d0d65b3e-b8f1-424b-b00c-adfeeb1ec2f1)
+![로그인구분창2](https://github.com/wlsdntls/CodeName404/assets/121711903/886388a9-54eb-4311-bc93-cc13cd4c7ce3)
 ![로그인](https://github.com/wlsdntls/CodeName404/assets/121711903/81f50272-e2c9-43dc-a324-ebd3381c2dad)
 ![회원가입](https://github.com/wlsdntls/CodeName404/assets/121711903/a2d55f44-c3fe-421c-8e3b-2cfc76d9b6f1)
 <br><br>
