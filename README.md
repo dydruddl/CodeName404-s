@@ -45,15 +45,15 @@ http://13.124.169.213/
 <br><br>
 
 # 5-3. 자유게시판<br><br>
-
+![freeList 자유게시판목록](https://github.com/wlsdntls/CodeName404/assets/121711903/fa0bbe64-bb92-4a24-9198-412ada1ad5ff)
 <br><br>
 
 # 5-3. 스터디게시판<br><br>
-
+![study_list 스터디게시판목록](https://github.com/wlsdntls/CodeName404/assets/121711903/1ac95a05-fca4-49aa-9a16-ad4f35ec8053)
 <br><br>
 
 # 5-3. QnA게시판<br><br>
-
+![qnaList Q A리스트목록](https://github.com/wlsdntls/CodeName404/assets/121711903/10e7091f-7b83-4853-baa8-9e0dc3c11cc7)
 <br><br>
 
 # 5-4. 관리자-회원관리/회원상세정보<br><br>
